@@ -1,5 +1,7 @@
 # Women Who Code Denton's Website
-Website for information regarding the Denton, TX chapter of Women Who Code.
+Website for information regarding the Denton, TX chapter of Women Who Code. 
+
+The Denton group is part of the Women Who Code Dallas Network. Learn more about our Network at [Women Who Code DFW](https://www.womenwhocode.com/dfw).
 
 <hr>
 
