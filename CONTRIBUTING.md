@@ -23,4 +23,4 @@ That's enough for Hacktoberfest shirt, but if you'd like to become a long term m
 
 ## Code of Conduct
 
-As always, follow the code of conduct oulined [here](https://github.com/wwcodedenton/guidelines-resources/blob/master/code_of_conduct.md).
+As always, follow the code of conduct outlined [here](https://github.com/wwcodedenton/guidelines-resources/blob/master/code_of_conduct.md).
